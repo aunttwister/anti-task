@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>anti_task_api</RootNamespace>
+    <RootNamespace>AntiTask.Api</RootNamespace>
     <UserSecretsId>e82db2da-a15b-46a9-9266-975a02b7447b</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>

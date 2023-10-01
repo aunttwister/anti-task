@@ -2,8 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>AntiTask.ScheduleTaskJobs</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>
