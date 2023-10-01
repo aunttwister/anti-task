@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/anti-task-api/.vs
+/.vs
+/src/anti-task-api/Pages
+/src/anti-task-api/wwwroot
