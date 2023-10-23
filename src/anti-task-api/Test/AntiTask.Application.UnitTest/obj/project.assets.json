@@ -8,6 +8,9 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "CSharpGuidelinesAnalyzer/3.8.3": {
+        "type": "package"
+      },
       "Microsoft.CodeCoverage/17.6.0": {
         "type": "package",
         "compile": {
@@ -1767,6 +1770,21 @@
         "coverlet-icon.png",
         "coverlet.collector.3.2.0.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "CSharpGuidelinesAnalyzer/3.8.3": {
+      "sha512": "Q6frLW0xSb9EJbOc5WChYr/ilY1989C10XHgZbo/A+uOfkkSE+v+Rv1amNG5qHFQyniw524GPJzmgn51yokslg==",
+      "type": "package",
+      "path": "csharpguidelinesanalyzer/3.8.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/CSharpGuidelinesAnalyzer.dll",
+        "csharpguidelinesanalyzer.3.8.3.nupkg.sha512",
+        "csharpguidelinesanalyzer.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "Microsoft.CodeCoverage/17.6.0": {
@@ -5511,6 +5529,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CSharpGuidelinesAnalyzer >= 3.8.3",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5562,6 +5581,12 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "CSharpGuidelinesAnalyzer": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.8.3, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.6.0, )"

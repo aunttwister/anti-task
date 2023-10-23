@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PHAmbVE7t3aShsKh14PilmYVpTCUJiDOiAkAGqwQMjIMyXG/kz8PY2ph63vObJJEiLeXn9cAdX1DFj7x/Z4hJw==",
+  "dgSpecHash": "gVjiW51HSslDy6j3StLw3HGA5qYqDBzFpuBUnyeIBgelLDyvdMKpFdmsH2GRkCF5Pv+DBJA1aK7ac6U1wC8Qow==",
   "success": true,
   "projectFilePath": "C:\\Users\\pavle\\Documents\\My Projects\\Anti Task\\src\\anti-task-api\\Infrastructure\\AntiTask.Infrastructure\\AntiTask.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\csharpguidelinesanalyzer\\3.8.3\\csharpguidelinesanalyzer.3.8.3.nupkg.sha512"
+  ],
   "logs": []
 }

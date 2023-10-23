@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "rkQj/NFvEp/smgmIsidhWwt80iR50Tpki8faK53BdRWZ6k6ny7nM7Oo3Me4M5ZOT6yqUO7XuFnga2Qj76z5Njg==",
+  "dgSpecHash": "tYeHWr159ctaqZiUQaEXDaeU+u1aFdMDcJ5pLkDrcC2hOBIe7QBQTpt5dFjdWz+XtM0xcicM7t3bn2/y/6vqng==",
   "success": true,
   "projectFilePath": "C:\\Users\\pavle\\Documents\\My Projects\\Anti Task\\src\\anti-task-api\\Core\\AntiTask.Application\\AntiTask.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\csharpguidelinesanalyzer\\3.8.3\\csharpguidelinesanalyzer.3.8.3.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.12\\microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,5 +22,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\pavle\.nuget\packages\xunit.analyzers\1.0.0</Pkgxunit_analyzers>
+    <PkgCSharpGuidelinesAnalyzer Condition=" '$(PkgCSharpGuidelinesAnalyzer)' == '' ">C:\Users\pavle\.nuget\packages\csharpguidelinesanalyzer\3.8.3</PkgCSharpGuidelinesAnalyzer>
   </PropertyGroup>
 </Project>

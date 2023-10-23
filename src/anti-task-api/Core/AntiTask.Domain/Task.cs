@@ -10,10 +10,16 @@ namespace AntiTask.Domain
 {
     public class Task : AuditableEntity
     {
+        public Task()
+        {
+            Descendants = new HashSet<TaskNode>();
+        }
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public Priority Priority { get; set; }
-        public EstimationUnit EstimationUnit { get; set; }
+        public string Priority { get; set; }
+        public ICollection<TaskNode> Descendants { get; set; }
+        public TaskNode Ancestor { get; set; }
+
     }
 }

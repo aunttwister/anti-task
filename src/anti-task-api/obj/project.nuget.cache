@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9B2l+5SDBgpo5HUHcX2vh04LfJARGB4ls6AIFNxNLX5paUfgtZ2tjBfOykbgJHwUdBC7P/CT4OMxIit6n7qCGQ==",
+  "dgSpecHash": "ALC6kLN0ty2kYub32JEvOXH9eIjHOCxFeLzOGvFpBi5AqAwX4pP2Qr1MFyuzFjxe9tgPvpu0mirqCHMfkdld8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\pavle\\Documents\\My Projects\\Anti Task\\src\\anti-task-api\\AntiTask.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\csharpguidelinesanalyzer\\3.8.3\\csharpguidelinesanalyzer.3.8.3.nupkg.sha512",
     "C:\\Users\\pavle\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
   "logs": []
