@@ -1,0 +1,22 @@
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\bin\Debug\net7.0\AntiToDo.Domain.deps.json
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\bin\Debug\net7.0\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\bin\Debug\net7.0\AntiToDo.Domain.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\refint\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\AntiToDo.Domain.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Domain\obj\Debug\net7.0\ref\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\bin\Debug\net7.0\AntiToDo.Domain.deps.json
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\bin\Debug\net7.0\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\bin\Debug\net7.0\AntiToDo.Domain.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\refint\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\AntiToDo.Domain.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Domain\obj\Debug\net7.0\ref\AntiToDo.Domain.dll

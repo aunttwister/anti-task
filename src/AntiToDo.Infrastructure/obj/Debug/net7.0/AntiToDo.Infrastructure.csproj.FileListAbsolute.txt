@@ -1,0 +1,22 @@
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.deps.json
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\refint\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.Infrastructure\obj\Debug\net7.0\ref\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.deps.json
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\bin\Debug\net7.0\AntiToDo.Infrastructure.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\refint\AntiToDo.Infrastructure.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\AntiToDo.Infrastructure.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Infrastructure\obj\Debug\net7.0\ref\AntiToDo.Infrastructure.dll

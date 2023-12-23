@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AntiToDo.Api.props" />
+</Project>

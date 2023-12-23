@@ -1,0 +1,22 @@
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\bin\Debug\net7.0\AntiTodo.ScheduleTaskJobs.deps.json
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\bin\Debug\net7.0\AntiTodo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\bin\Debug\net7.0\AntiTodo.ScheduleTaskJobs.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\refint\AntiTodo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\AntiTodo.ScheduleTaskJobs.pdb
+C:\Users\pavle\Documents\My Projects\Anti Task\src\AntiTask.ScheduleTaskJobs\obj\Debug\net7.0\ref\AntiTodo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\bin\Debug\net7.0\AntiToDo.ScheduleTaskJobs.deps.json
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\bin\Debug\net7.0\AntiToDo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\bin\Debug\net7.0\AntiToDo.ScheduleTaskJobs.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\refint\AntiToDo.ScheduleTaskJobs.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\AntiToDo.ScheduleTaskJobs.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.ScheduleTaskJobs\obj\Debug\net7.0\ref\AntiToDo.ScheduleTaskJobs.dll

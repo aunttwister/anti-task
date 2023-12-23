@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVnMOtfVRo9FclSQYAw/1UZwkb15sgxsh7E46LZ8Hc00OhKmwcdEO0BEurqU8a8j+rC8ozY8OLG3J+ZbOptzKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.ScheduleTaskJobs\\AntiToDo.ScheduleTaskJobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\csharpguidelinesanalyzer\\3.8.3\\csharpguidelinesanalyzer.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}

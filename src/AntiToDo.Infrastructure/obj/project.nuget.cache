@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhSo3wkwql1pRmjzM9flC1cProqbCFxdy3kikjYYXXoT0TIkqnoEY9X3xt77vC4Z++w43rB2DeleaQlvdl8GZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Infrastructure\\AntiToDo.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\csharpguidelinesanalyzer\\3.8.3\\csharpguidelinesanalyzer.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
