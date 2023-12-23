@@ -6,3 +6,4 @@
 /.vs
 /src/anti-task-api/Pages
 /src/anti-task-api/wwwroot
+/src/AntiTask.Api/appsettings.Development.json
