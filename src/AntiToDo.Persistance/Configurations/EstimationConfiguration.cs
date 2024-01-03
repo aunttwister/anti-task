@@ -12,18 +12,18 @@ namespace AntiToDo.Persistance.Configurations
     {
         public override void ConfigureAuditableEntity(EntityTypeBuilder<Estimation> builder)
         {
-            builder.HasQueryFilter(e => !e.IsDeleted);
-            builder.HasKey(e => e.Id);
-            builder.Property(e => e.Name)
+            builder.HasQueryFilter(es => !es.IsDeleted);
+            builder.HasKey(es => es.Id);
+            builder.Property(es => es.Name)
                 .HasMaxLength(255)
                 .IsRequired();
-            builder.Property(e => e.Description)
+            builder.Property(es => es.Description)
                 .HasMaxLength(255)
                 .IsRequired(false);
-            builder.HasOne(e => e.ToDoItem)
+            builder.HasOne(es => es.ToDoItem)
                 .WithOne(tdi => tdi.Estimation)
                 .IsRequired(false);
-            builder.HasOne(e => e.ToDoGroup)
+            builder.HasOne(es => es.ToDoGroup)
                 .WithOne(tdi => tdi.Estimation)
                 .IsRequired(false);
         }

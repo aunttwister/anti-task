@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AntiToDo.Application.Features.ToDoItems.CRUD.Commands.CreateToDoItem
+namespace AntiToDo.Domain.Enum
 {
-    internal class CreateToDoItemCommandAuthorized
+    public enum ReminderFrequency
     {
+        Horly, Daily, Weekly, Monthly
     }
 }
