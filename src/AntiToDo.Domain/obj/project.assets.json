@@ -4,6 +4,16 @@
     "net7.0": {
       "CSharpGuidelinesAnalyzer/3.8.3": {
         "type": "package"
+      },
+      "AntiToDo.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AntiToDo.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AntiToDo.Common.dll": {}
+        }
       }
     }
   },
@@ -22,10 +32,16 @@
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
+    },
+    "AntiToDo.Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/AntiToDo.Common.csproj",
+      "msbuildProject": "../Common/AntiToDo.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AntiToDo.Common >= 1.0.0",
       "CSharpGuidelinesAnalyzer >= 3.8.3"
     ]
   },
@@ -36,9 +52,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Domain\\AntiToDo.Domain.csproj",
-      "projectName": "AntiToDo.Domain",
-      "projectPath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Domain\\AntiToDo.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Domain\\AntiToDo.Application.Domain.csproj",
+      "projectName": "AntiToDo.Application.Domain",
+      "projectPath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Domain\\AntiToDo.Application.Domain.csproj",
       "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\AntiToDo.Domain\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,7 +77,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\Common\\AntiToDo.Common.csproj": {
+              "projectPath": "C:\\Users\\pavle\\Documents\\My Projects\\AntiToDo\\src\\Common\\AntiToDo.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

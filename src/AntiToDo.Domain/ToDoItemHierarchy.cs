@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AntiToDo.Common.Base;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AntiToDo.Domain
 {
-    public class ToDoItemHierarchy
+    public class ToDoItemHierarchy : AuditableEntity
     {
         public Guid AncestorId { get; set; }
         public Guid DescendantId { get; set; }

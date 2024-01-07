@@ -1,15 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using AntiToDo.Domain;
-using AntiToDo.Persistance.Configurations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AntiToDo.Application.Common.Interfaces;
-using AntiToDo.Domain.Base;
+using AntiToDo.Common.Base;
 
-namespace AntiTask.Persistance
+namespace AntiToDo.Persistance
 {
     public class DbContextExtend : DbContext
     {

@@ -20,3 +20,9 @@ C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\ne
 C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\net7.0\refint\AntiToDo.Security.dll
 C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\net7.0\AntiToDo.Security.pdb
 C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\net7.0\ref\AntiToDo.Security.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\net7.0\AntiToDo.Security.csproj.AssemblyReference.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\bin\Debug\net7.0\AntiToDo.Application.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\bin\Debug\net7.0\AntiToDo.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\bin\Debug\net7.0\AntiToDo.Application.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\bin\Debug\net7.0\AntiToDo.Domain.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security\obj\Debug\net7.0\AntiToDo.Security.csproj.CopyComplete

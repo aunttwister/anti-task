@@ -11,7 +11,6 @@ namespace AntiToDo.Application.Common.Interfaces
     {
         string Email { get; }
         bool IsAuthenticated { get; }
-
         Task<UserDto> GetCurrentUserAsync();
     }
 }

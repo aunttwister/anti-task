@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using AntiToDo.Domain.Base;
+using AntiToDo.Common.Base;
 
 namespace AntiToDo.Persistance.Configurations
 {

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using System.IO;
 
-namespace AntiTask.Persistance
+namespace AntiToDo.Persistance
 {
     public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<AntiToDoDbContext>
     {

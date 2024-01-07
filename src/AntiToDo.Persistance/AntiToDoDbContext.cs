@@ -4,9 +4,9 @@ using AntiToDo.Domain;
 using AntiToDo.Persistance.Configurations;
 using Microsoft.EntityFrameworkCore;
 
-namespace AntiTask.Persistance
+namespace AntiToDo.Persistance
 {
-    public class AntiToDoDbContext : DbContextExtend, IAntiTaskDbContext
+    public class AntiToDoDbContext : DbContextExtend, IAntiToDoDbContext
     {
         public AntiToDoDbContext(DbContextOptions<AntiToDoDbContext> options) : base(options) { }
 
@@ -15,7 +15,9 @@ namespace AntiTask.Persistance
             ICurrentUserService userService) : base(options, datetime, userService) { }
         public DbSet<ToDoItem> ToDoItems { get; set; }
         public DbSet<ToDoItemHierarchy> ToDoItemHierarchies { get; set; }
-
+        public DbSet<Estimation> Estimations { get; set; }
+        public DbSet<Priority> Priority { get; set; }
+        public DbSet<User> Users { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

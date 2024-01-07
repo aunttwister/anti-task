@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AntiToDo.Application.Domain/1.0.0": {
+        "dependencies": {
+          "AntiToDo.Common": "1.0.0",
+          "CSharpGuidelinesAnalyzer": "3.8.3"
+        },
+        "runtime": {
+          "AntiToDo.Application.Domain.dll": {}
+        }
+      },
+      "CSharpGuidelinesAnalyzer/3.8.3": {},
+      "AntiToDo.Common/1.0.0": {
+        "runtime": {
+          "AntiToDo.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntiToDo.Application.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpGuidelinesAnalyzer/3.8.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q6frLW0xSb9EJbOc5WChYr/ilY1989C10XHgZbo/A+uOfkkSE+v+Rv1amNG5qHFQyniw524GPJzmgn51yokslg==",
+      "path": "csharpguidelinesanalyzer/3.8.3",
+      "hashPath": "csharpguidelinesanalyzer.3.8.3.nupkg.sha512"
+    },
+    "AntiToDo.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

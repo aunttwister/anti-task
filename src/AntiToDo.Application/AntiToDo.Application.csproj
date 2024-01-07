@@ -8,23 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="CSharpGuidelinesAnalyzer" Version="3.8.3">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Destructurama.Attributed" Version="3.1.0" />
     <PackageReference Include="MediatR" Version="12.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\Extensions\DbExtensions\" />
     <Folder Include="Common\Services\" />
     <Folder Include="Features\ToDoItems\CRUD\Queries\ReadToDoItemById\" />
     <Folder Include="Features\ToDoItems\CRUD\Queries\ReadToDoItems\" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AntiToDo.Domain\AntiToDo.Domain.csproj" />
+    <ProjectReference Include="..\AntiToDo.Domain\AntiToDo.Application.Domain.csproj" />
+    <ProjectReference Include="..\Common\AntiToDo.Common.csproj" />
   </ItemGroup>
 
 </Project>

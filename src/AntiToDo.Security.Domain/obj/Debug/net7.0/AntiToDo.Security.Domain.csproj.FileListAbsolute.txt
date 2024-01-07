@@ -1,0 +1,15 @@
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\bin\Debug\net7.0\AntiToDo.Security.Domain.deps.json
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\bin\Debug\net7.0\AntiToDo.Security.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\bin\Debug\net7.0\AntiToDo.Security.Domain.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\bin\Debug\net7.0\AntiToDo.Common.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\bin\Debug\net7.0\AntiToDo.Common.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.csproj.AssemblyReference.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.AssemblyInfoInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.AssemblyInfo.cs
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.csproj.CopyComplete
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\refint\AntiToDo.Security.Domain.dll
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\AntiToDo.Security.Domain.pdb
+C:\Users\pavle\Documents\My Projects\AntiToDo\src\AntiToDo.Security.Domain\obj\Debug\net7.0\ref\AntiToDo.Security.Domain.dll
